@@ -1,3 +1,0 @@
-Align.vba: call delete('/home/wweng/.vim/plugin/AlignPlugin.vim	[[[1')|call delete('/home/wweng/.vim/plugin/AlignMapsPlugin.vim	[[[1')|call delete('/home/wweng/.vim/plugin/cecutil.vim	[[[1')|call delete('/home/wweng/.vim/doc/Align.txt	[[[1')|call delete('/home/wweng/.vim/autoload/Align.vim	[[[1')|call delete('/home/wweng/.vim/autoload/AlignMaps.vim	[[[1')
-cecutil.vba: call delete('/home/wweng/.vim/plugin/cecutil.vim')|call delete('/home/wweng/.vim/doc/cecutil.txt')
-getscript.vba: call delete('/home/wweng/.vim/plugin/getscriptPlugin.vim')|call delete('/home/wweng/.vim/autoload/getscript.vim')|call delete('/home/wweng/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/home/wweng/.vim/doc/pi_getscript.txt')
